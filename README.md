@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jordan 
 ========
 
-I'm a computer science student who loves building software  
+I'm a computer science student and this page serves as a dynamic canvas where I share and explore my interests
 * 🌍 Malaysia
 * 🚀 Working on [bus-app](http:///github.com/jordanpenguins/bus-app)
 * 🧠 Learning Laravel
